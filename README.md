@@ -81,5 +81,4 @@ A React-based platform designed to streamline medical appointment bookings for S
 ### Deployment
 
 - IBM Cloud Container Registry
-# test_med_app
-# test_med_app
+#### by : Jesus Uriel Santana Oliva
